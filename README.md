@@ -5,6 +5,7 @@
 |:----|:----:|:----:|
 |asd001|Antony (Admin)|25|
 |asd002|Jued|25|
+|asd003|pantra|27|
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
