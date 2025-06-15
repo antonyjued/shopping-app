@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
-import Logo from './assets/react.svg'
+import Logo from './assets/checkout.png'
 
 import './Card.css'
 function Card(){
@@ -16,6 +16,7 @@ function Card(){
         <button onClick={() => setCount2((count2) => count2 + 1)}>
           Add Orders : {count2}
         </button>
+        
     </div>
     )
   
